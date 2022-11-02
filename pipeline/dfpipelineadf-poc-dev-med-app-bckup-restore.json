@@ -1,0 +1,8 @@
+{
+	"name": "dfpipelineadf-poc-dev-med-app-bckup-restore",
+	"properties": {
+		"annotations": [],
+		"lastPublishTime": "2022-11-02T17:05:08Z"
+	},
+	"type": "Microsoft.DataFactory/factories/pipelines"
+}

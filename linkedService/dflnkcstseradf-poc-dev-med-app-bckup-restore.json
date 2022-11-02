@@ -1,0 +1,12 @@
+{
+	"name": "dflnkcstseradf-poc-dev-med-app-bckup-restore",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"type": "AzureBlobStorage",
+		"typeProperties": {
+			"connectionString": "DefaultEndpointsProtocol=https;AccountName=storageappbckuprestore;EndpointSuffix=core.windows.net;",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDc0QUE1OUI1LTVBNTEtNDRBMC1BMDBBLUFDQkNBNjdEN0E1QV82YTg2ZjQzMS1mNWNlLTQ3NDAtYWNkNi1lMDkyOGY4NDhmMjciDQp9"
+		},
+		"annotations": []
+	}
+}
