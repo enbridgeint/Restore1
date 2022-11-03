@@ -1,0 +1,6 @@
+{
+	"name": "intruntimeselfhostedadf-poc-dev-med-app-bckup-restore",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
